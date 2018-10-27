@@ -1,5 +1,5 @@
 os-autoinst/openQA tests for openSUSE and SUSE Linux Enterprise [![Build Status](https://travis-ci.org/os-autoinst/os-autoinst-distri-opensuse.svg?branch=master)](https://travis-ci.org/os-autoinst/os-autoinst-distri-opensuse?branch=master)
-================================================================================================================================================================================================================================
+===============================================================================================================================================================================================================================
 os-autoinst-distri-opensuse is repo which contains tests, which are executed
 by openQA for openSUSE and SLE distributions.
 
